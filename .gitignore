@@ -1,0 +1,47 @@
+# Dependencies
+**/node_modules/
+node_modules/
+linkhub_frontend/node_modules/
+linkhub_backend/node_modules/
+
+# Build outputs
+linkhub_frontend/build/
+linkhub_frontend/dist/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+**/.env
+linkhub_backend/.env
+
+# Package lock files (OPTIONAL - usually commit these for consistency)
+# linkhub_frontend/package-lock.json
+linkhub_backend/package-lock.json
+package-lock.json
+
+# Logs
+logs/
+*.log
+**/*.log
+linkhub_backend/logs/
+
+# Uploads
+linkhub_backend/store-logo/
+uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backend JSON database (if you don't want to commit data)
+# linkhub_backend/json/
+# linkhub_backend/storage/

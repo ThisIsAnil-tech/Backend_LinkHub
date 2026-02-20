@@ -1,0 +1,10 @@
+{
+  "admins": [
+    {
+      "_id": "1771432057158",
+      "email": "aniluu1312@gmail.com",
+      "password": "$2a$10$j361QSaqbYhLPz9Tx2W73e.FXojeNTOIh5wXkhyZzSekvKxVYFPvq",
+      "createdAt": "2026-02-18T16:27:37.158Z"
+    }
+  ]
+}
