@@ -16,9 +16,7 @@ if (!fs.existsSync(uploadDir)) {
 }
 
 const allowedOrigins = [
-  'http://localhost:3000',
-  'https://linkhub_frontend.vercel.app',
-  'https://linkhub_frontend.netlify.app'
+  'https://frontend-link-hub.vercel.app'
 ];
 
 app.use(cors({
